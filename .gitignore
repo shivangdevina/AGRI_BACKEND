@@ -1,0 +1,42 @@
+# ------------------------
+# Environment & Secrets
+# ------------------------
+.env
+
+# ------------------------
+# Python cache / compiled files
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------------
+# Editor / IDE junk
+# ------------------------
+*.cph/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ------------------------
+# Machine Learning models & data
+# ------------------------
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.csv
+*.npz
+
+# ------------------------
+# Logs
+# ------------------------
+*.log
+
+# ------------------------
+# OS generated files
+# ------------------------
+Thumbs.db
+ehthumbs.db
