@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![WhatsApp Image 2025-10-04 at 00 36 09_291b11eb](https://github.com/user-attachments/assets/35210a2e-902f-4ddd-9d23-1d574d4b0266)
+   <img src="AgriNOVA_LOGO.jpg" alt="PRAGATI Logo" width="180" height="180" />
 
   
   <h1>AgriNOVA: AI-Powered Personal Farming Assistant</h1>
