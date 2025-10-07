@@ -66,6 +66,16 @@ This ensures every recommendation remains accurate, practical, and region-specif
 
 ---
 
+### 7. Wellbeing & Safety Layer (Sentiment Analysis & Escalation)
+
+AgriNOVA uses **sentiment analysis** on voice and text inputs to detect stress or distress indicators in farmer interactions.  
+A calculated **Red Score** quantifies emotional risk based on language tone, frequency of negative terms, and contextual triggers like crop loss or debt.  
+When the score exceeds a set threshold, the system automatically **switches to empathetic response mode**, pauses hazardous recommendations, and **alerts a designated reporting authority** .  
+Sensitive data remains anonymized, ensuring farmer safety, privacy, and emotional wellbeing.
+
+
+---
+
 ## Wellbeing & Safety Layer (Sentiment + Red Score + Escalation)
 
 - Purpose: Detect farmer distress and provide supportive, safe responses (non-clinical).  
